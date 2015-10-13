@@ -1,6 +1,8 @@
 # PIC-Keypad-Driven-GLCD
 PIC GLCD project with Keypad Functionality.
 
+![alt text](display.png "Real Pic Simulator running the project")
+
 The project is written for the EasyPIC Development Board using the Real Pic Simulator as the development and testing platform.
 The project is written in C using the MicroC IDE.
 
